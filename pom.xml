@@ -11,7 +11,7 @@
 	<artifactId>api-rest-with-security-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api-rest-with-security-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>An API rest demo project with spring security</description>
 	<url/>
 	<licenses>
 		<license/>
